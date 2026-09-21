@@ -1,5 +1,7 @@
 package model;
 
+import service.InputValidator;
+
 public class PemesananWedding {
     private final int idBooking;
     private final Pelanggan pelanggan;

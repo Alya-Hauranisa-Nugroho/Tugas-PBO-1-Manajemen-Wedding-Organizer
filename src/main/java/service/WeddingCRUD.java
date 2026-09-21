@@ -1,7 +1,12 @@
-package model;
+package service;
 
 import java.util.ArrayList;
 import java.util.Scanner;
+import model.PaketWedding;
+import model.Pelanggan;
+import model.PemesananWedding;
+import model.VendorCatering;
+import model.VendorDekorasi;
 
 public class WeddingCRUD {
     private ArrayList<PaketWedding> daftarPaket;

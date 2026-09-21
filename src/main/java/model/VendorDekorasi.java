@@ -1,5 +1,7 @@
 package model;
 
+import service.InputValidator;
+
 public class VendorDekorasi extends Vendor {
     private final String temaDekorasi;
     private final String jenisDekorasi;

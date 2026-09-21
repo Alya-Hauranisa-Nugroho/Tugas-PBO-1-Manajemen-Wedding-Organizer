@@ -1,7 +1,7 @@
 package com.mycompany.weddingorganizer;
 
 import java.util.Scanner;
-import model.WeddingCRUD;
+import service.WeddingCRUD;
 
 public class WeddingOrganizer {
     public static void main(String[] args) {

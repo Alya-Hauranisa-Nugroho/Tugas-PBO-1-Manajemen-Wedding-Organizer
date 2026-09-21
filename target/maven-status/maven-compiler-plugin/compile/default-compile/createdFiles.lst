@@ -1,9 +1,9 @@
 model\PaketWedding.class
 model\Vendor.class
 model\VendorCatering.class
-model\InputValidator.class
-model\WeddingCRUD.class
+service\InputValidator.class
 com\mycompany\weddingorganizer\WeddingOrganizer.class
 model\PemesananWedding.class
+service\WeddingCRUD.class
 model\Pelanggan.class
 model\VendorDekorasi.class

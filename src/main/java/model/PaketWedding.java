@@ -1,5 +1,7 @@
 package model;
 
+import service.InputValidator;
+
 public class PaketWedding {
     private final int idPaket;
     private final String namaPaket;
